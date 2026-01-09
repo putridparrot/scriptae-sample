@@ -1,7 +1,7 @@
 ---
 title: "DevOps Essentials - Part 100"
 date: "2024-04-08"
-author: "Diana Tech"
+author: "Billy McBilly"
 excerpt: "Learn how to optimize your workflow and improve productivity."
 ---
 
